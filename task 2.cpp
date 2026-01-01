@@ -1,5 +1,5 @@
-// Advanced Login and Registration System in C++
-// This program allows users to register and login with hashed passwords stored in individual files.
+/* Description:- an advanced Login and Registration System in C++
+This program allows users to register and login with hashed passwords stored in individual files.*/
 
 #include <iostream>  // For input/output operations like cout and cin
 #include <fstream>   // For file input/output operations (ifstream for reading files, ofstream for writing files) - used here to store and retrieve user credentials securely in individual files
@@ -189,3 +189,4 @@ int main() {
     }
     return 0;
 }
+//End of the code
